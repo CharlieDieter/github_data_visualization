@@ -29,17 +29,23 @@ In addition, the project will include:
 * Board, Ship, Bullet, Enemy Creation
 * User input to move ship, fire bullet
 * UI framework (title, high scores, controls, github link, remaining lives, restart modal)
-  **Day 2:**
+
+**Day 2:**
+
 * Increased speed enemy speed, deaths, score count
 * Moving on to next phase after phase completion
 * Enemy shooting
-  **Day 3:**
+
+**Day 3:**
+
 * Create life counter that depletes as shot by enemy
 * Game over after death
 * Victory screen in between levels
 * High score congratulation (cookies)
-* Music and sound effects  
-  **Day 4:**
-  * bonus: create scrolling background
-  * bonus: make enemies drop rewards randomly which change bullets for limited time
-  * bonus: allow ship to move in all directions as background scrolls, becoming more like Tyrian or similar space-shooter
+* Music and sound effects
+
+**Day 4:**
+
+* bonus: create scrolling background
+* bonus: make enemies drop rewards randomly which change bullets for limited time
+* bonus: allow ship to move in all directions as background scrolls, becoming more like Tyrian or similar space-shooter
