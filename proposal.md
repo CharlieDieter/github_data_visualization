@@ -7,84 +7,36 @@ Github has been used by 12 million people since its creation in 2008, storing so
 With this data visualization, users will be able to:
 
 * Filter results by creator statistics
-* View how programming language popularity has changed over time
+* View transitioning bubble view of languages, each circle packed with related frameworks and libraries over time
+* On click of a represented language view a dynamic chord chart that details language relationship with framworks and libraries over time
+* On click of a represented language view a dynamic chord chart that show languages relation to one another over time
 
-In addition, the project will include:
-
-* a production README
+In addition, the project will include a production README
 
 ## Architecture and Technologies
 
 * `Javascript`
+* Google BigQuery API with `Node.js`
 * D3.js
 
 ## Timeline
 
 **Day 1:**
 
-* Data fetching
+* Data fetching/queries using `Node.js`
 * UI framework (title, links, etc.)
 
 **Day 2:**
 
-* Create static charts
+* Create circle packed bubble view of languages w/ related libs, starting in 2008.
+* Have this transition over time, to present time
 
 **Day 3:**
 
-* Implement user interaction (scrolling through years, languages, etc)
+* Implement user interaction that on click transitions to page with two chord charts
+* Create chord chart that details language/framework relationships
+* Create chord chart that details langauge/language relationships
 
 **Day 4:**
 
-* Transitions, animation, formatting
-
-~~Background~~
-
-~~Space Invaders, one of the first shooting video games, is a classic arcade game in which users shoot waves of enemy ships that become progressively harder to eliminate.~~
-
-~~There are more modern implementations of the same game logic that incorporate moving backgrounds and level-up drops from ships, which will be outlined in the **Functionality & MVP** and **Bonus** sections.~~
-
-~~## Functionality & MVP~~
-
-~~With this version of Space Invaders, users will be able to:~~
-
-~~\* Start and reset game~~
-~~\* Shoot enemies and move laterally~~
-~~\* Toggle audio on and off~~
-~~\* Input name on high score~~
-
-In addition, the project will include:
-
-* a production README
-
-## Architecture and Technologies
-
-* `Javascript`
-* HTML5 Canvas
-
-## Timeline
-
-**Day 1:**
-
-* Board, Ship, Bullet, Enemy Creation
-* User input to move ship, fire bullet
-* UI framework (title, high scores, controls, github link, remaining lives, restart modal)
-
-**Day 2:**
-
-* Increased speed enemy speed, deaths, score count
-* Moving on to next phase after phase completion
-* Enemy shooting
-
-**Day 3:**
-
-* Create life counter that depletes as shot by enemy
-* Game over after death
-* Victory screen in between levels
-* High score congratulation (cookies)
-* Music and sound effects
-
-**Day 4:**
-
-* bonus: create scrolling background
-* bonus: make enemies drop rewards randomly which change bullets for limited time
-* bonus: allow ship to move in all directions as background scrolls, becoming more like Tyrian or similar space-shooter
+* Transitions, animation, formatting, user interaction in selecting parameters for year, skipping intros, etc.
