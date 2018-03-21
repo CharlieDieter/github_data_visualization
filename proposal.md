@@ -40,3 +40,4 @@ In addition, the project will include a production README
 **Day 4:**
 
 * Transitions, animation, formatting, user interaction in selecting parameters for year, skipping intros, etc.
+* Add analysis for personal github urls
