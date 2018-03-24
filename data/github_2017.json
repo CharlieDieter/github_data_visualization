@@ -25,7 +25,9 @@
         { "name": "XSLT", "instances": 6852 },
         { "name": "Go", "instances": 6716 },
         { "name": "ASP", "instances": 6542 }
-      ]
+      ],
+      "img":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Badge_js-strict.svg/2000px-Badge_js-strict.svg.png"
     },
     {
       "name": "HTML",
@@ -51,7 +53,9 @@
         { "name": "Go", "instances": 7863 },
         { "name": "XSLT", "instances": 7373 },
         { "name": "Vue", "instances": 6577 }
-      ]
+      ],
+      "img":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2000px-HTML5_logo_and_wordmark.svg.png"
     },
     {
       "name": "CSS",
@@ -77,7 +81,9 @@
         { "name": "XSLT", "instances": 7583 },
         { "name": "ASP", "instances": 5958 },
         { "name": "Go", "instances": 5290 }
-      ]
+      ],
+      "img":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/2000px-CSS.3.svg.png"
     },
     {
       "name": "Shell",
@@ -103,7 +109,8 @@
         { "name": "Roff", "instances": 9134 },
         { "name": "C#", "instances": 8809 },
         { "name": "Vim script", "instances": 8067 }
-      ]
+      ],
+      "img": "https://glot.io/static/img/bash.svg.png?etag=5cwCNl16"
     },
     {
       "name": "Python",
@@ -129,7 +136,9 @@
         { "name": "Roff", "instances": 6587 },
         { "name": "TeX", "instances": 6078 },
         { "name": "Go", "instances": 5992 }
-      ]
+      ],
+      "img":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png"
     },
     {
       "name": "Java",
@@ -155,7 +164,9 @@
         { "name": "CMake", "instances": 3634 },
         { "name": "Kotlin", "instances": 2780 },
         { "name": "Assembly", "instances": 2768 }
-      ]
+      ],
+      "img":
+        "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"
     },
     {
       "name": "Ruby",
@@ -181,7 +192,9 @@
         { "name": "XSLT", "instances": 2634 },
         { "name": "C#", "instances": 2361 },
         { "name": "PowerShell", "instances": 2245 }
-      ]
+      ],
+      "img":
+        "https://www.bigbinary.com/assets/services/ror/rubygem-73b83c79780e7e71d4a159177f2cbdb95b07466141beab0380842122d27f4f93.svg"
     },
     {
       "name": "PHP",
@@ -207,7 +220,9 @@
         { "name": "Vue", "instances": 2198 },
         { "name": "Assembly", "instances": 2080 },
         { "name": "CMake", "instances": 1861 }
-      ]
+      ],
+      "img":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/PHP_Logo%2C_text_only.svg/640px-PHP_Logo%2C_text_only.svg.png"
     },
     {
       "name": "C",
@@ -233,7 +248,9 @@
         { "name": "PHP", "instances": 6649 },
         { "name": "Awk", "instances": 5720 },
         { "name": "Objective-C++", "instances": 5596 }
-      ]
+      ],
+      "img":
+        "https://domboscoonline.com.br/upload/store/281220171514476609linguagem-c.png"
     },
     {
       "name": "C++",
@@ -259,7 +276,9 @@
         { "name": "PHP", "instances": 6223 },
         { "name": "Roff", "instances": 5900 },
         { "name": "Objective-C++", "instances": 5813 }
-      ]
+      ],
+      "img":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/2000px-ISO_C%2B%2B_Logo.svg.png"
     },
     {
       "name": "Go",
@@ -285,7 +304,8 @@
         { "name": "Assembly", "instances": 1010 },
         { "name": "CMake", "instances": 834 },
         { "name": "Smarty", "instances": 817 }
-      ]
+      ],
+      "img": "https://seeklogo.com/images/G/go-logo-046185B647-seeklogo.com.png"
     },
     {
       "name": "Swift",
@@ -311,7 +331,9 @@
         { "name": "CMake", "instances": 379 },
         { "name": "Rust", "instances": 305 },
         { "name": "Assembly", "instances": 280 }
-      ]
+      ],
+      "img":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/2000px-Swift_logo.svg.png"
     }
   ]
 }
