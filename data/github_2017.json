@@ -336,7 +336,27 @@
       ],
       "img":
         "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Swift_logo.svg/2000px-Swift_logo.svg.png"
-    }
+    },
+    {
+      "name": "HTML",
+      "instances": 256790,
+      "img":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2000px-HTML5_logo_and_wordmark.svg.png"
+    },
+    {
+      "name": "CSS",
+      "instances": 255773,
+      "img":
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/2000px-CSS.3.svg.png"
+    },
+    {
+      "name": "Shell",
+      "instances": 79324,
+      "img": "https://glot.io/static/img/bash.svg.png?etag=5cwCNl16"
+    },
+    { "name": "PHP", "instances": 56845 },
+    { "name": "Python", "instances": 50180 },
+    { "name": "Ruby", "instances": 43296 }
   ],
   "links": [
     { "source": 0, "target": 1 },
@@ -350,6 +370,12 @@
     { "source": 0, "target": 9 },
     { "source": 0, "target": 10 },
     { "source": 0, "target": 11 },
-    { "source": 0, "target": 12 }
+    { "source": 0, "target": 12 },
+    { "source": 1, "target": 13 },
+    { "source": 1, "target": 14 },
+    { "source": 1, "target": 15 },
+    { "source": 1, "target": 16 },
+    { "source": 1, "target": 17 },
+    { "source": 1, "target": 18 }
   ]
 }
