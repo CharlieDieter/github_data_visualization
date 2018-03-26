@@ -4,6 +4,7 @@
 
 body {
   background: radial-gradient(#ecf0f1, #abb7b7);
+  height: 1000px;
 }
 .sidebar {
   width: 300px;
