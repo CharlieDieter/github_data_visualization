@@ -9,43 +9,53 @@ var data = {
     },
     {
       name: "JavaScript",
-      instances: 414453
+      instances: 414453,
+      blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "HTML",
-      instances: 347998
+      instances: 347998,
+      blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "CSS",
-      instances: 309993
+      instances: 309993,
+      blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "Shell",
-      instances: 262879
+      instances: 262879,
+      blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "Python",
-      instances: 231975
+      instances: 231975,
+      blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "Java",
-      instances: 137410
+      instances: 137410,
+      blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "Ruby",
-      instances: 123708
+      instances: 123708,
+      blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "PHP",
-      instances: 118696
+      instances: 118696,
+      blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "Makefile",
-      instances: 116151
+      instances: 116151,
+      blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "C",
-      instances: 112881
+      instances: 112881,
+      blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "Most Loved",
@@ -53,167 +63,219 @@ var data = {
     },
     {
       name: "JavaScript",
-      instances: 61.9
+      instances: 61.9,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "TypeScript",
-      instances: 67
+      instances: 67,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "SQL",
-      instances: 57.5
+      instances: 57.5,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "Java",
-      instances: 50.7
+      instances: 50.7,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "Shell",
-      instances: 59.1
+      instances: 59.1,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "Python",
-      instances: 68.0
+      instances: 68.0,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "C#",
-      instances: 60.4
+      instances: 60.4,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "F#",
-      instances: 59.6
+      instances: 59.6,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "Clojure",
-      instances: 59.6
+      instances: 59.6,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "Ruby",
-      instances: 47.4
+      instances: 47.4,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "Go",
-      instances: 65.6
+      instances: 65.6,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "Swift",
-      instances: 65.1
+      instances: 65.1,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "Kotlin",
-      instances: 75.1
+      instances: 75.1,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
       name: "Rust",
-      instances: 78.9
+      instances: 78.9,
+      blurb: "of developers on Stack Overflow love this language"
     },
     {
-      name: "Most Hated",
+      name: "Most Dreaded",
       parent: true
     },
     {
       name: "Visual Basic",
-      instances: 89.9
+      instances: 89.9,
+      blurb: "of developers on Stack Overflow dread this language"
     },
     {
       name: "Cobol",
-      instances: 84.1
+      instances: 84.1,
+      blurb: "of developers on Stack Overflow say they dread this language"
     },
     {
       name: "CoffeeScript",
-      instances: 82.7
+      instances: 82.7,
+      blurb: "of developers on Stack Overflow say they dread this language"
     },
     {
       name: "Matlab",
-      instances: 77.4
+      instances: 77.4,
+      blurb: "of developers on Stack Overflow say they dread this language"
     },
     {
       name: "Assembly",
-      instances: 71.4
+      instances: 71.4,
+      blurb: "of developers on Stack Overflow say they dread this language"
     },
     {
       name: "Perl",
-      instances: 71.3
+      instances: 71.3,
+      blurb: "of developers on Stack Overflow say they dread this language"
     },
     {
       name: "Objective-C",
-      instances: 70.3
+      instances: 70.3,
+      blurb: "of developers on Stack Overflow say they dread this language"
     },
     {
       name: "Lua",
-      instances: 68.2
+      instances: 68.2,
+      blurb: "of developers on Stack Overflow say they dread this language"
     },
     {
       name: "Ruby",
-      instances: 52.6
+      instances: 52.6,
+      blurb: "of developers on Stack Overflow say they dread this language"
     },
     {
       name: "Groovy",
-      instances: 66.4
+      instances: 66.4,
+      blurb: "of developers on Stack Overflow say they dread this language"
     },
     {
       name: "Delphi/ObjectPascal",
-      instances: 65.1
+      instances: 65.1,
+      blurb: "of developers on Stack Overflow say they dread this language"
     },
     {
       name: "C",
-      instances: 62.6
+      instances: 62.6,
+      blurb: "of developers on Stack Overflow say they dread this language"
     },
     {
-      name: "By Highest Salary",
+      name: "Top Paying Technologies",
       parent: true
     },
     {
       name: "Erlang",
-      instances: 115000
+      instances: "$115000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Scala",
-      instances: 115000
+      instances: "$115000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "OCaml",
-      instances: 114000
+      instances: "$114000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Groovy",
-      instances: 66.4
+      instances: "$110000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Python",
-      instances: 98000
+      instances: "$98000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Hack",
-      instances: 108000
+      instances: "$108000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "F#",
-      instances: 108000
+      instances: "$108000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Clojure",
-      instances: 110000
+      instances: "$110000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Ruby",
-      instances: 100000
+      instances: "$100000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Go",
-      instances: 110000
+      instances: "$110000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Perl",
-      instances: 106000
+      instances: "$106000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Kotlin",
-      instances: 105000
+      instances: "$105000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Rust",
-      instances: 105000
+      instances: "$105000",
+      blurb:
+        "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Most Popular Frameworks",
@@ -221,47 +283,58 @@ var data = {
     },
     {
       name: "Node.js",
-      instances: 49.9
+      instances: 49.9,
+      blurb: "of Stack Overflow survey respondents use this technology"
     },
     {
       name: "Angular",
-      instances: 37.6
+      instances: 37.6,
+      blurb: "of Stack Overflow survey respondents use this technology"
     },
     {
       name: "React",
-      instances: 28.3
+      instances: 28.3,
+      blurb: "of Stack Overflow survey respondents use this technology"
     },
     {
       name: ".NET Core",
-      instances: 27.2
+      instances: 27.2,
+      blurb: "of Stack Overflow survey respondents use this technology"
     },
     {
       name: "Spring",
-      instances: 17.8
+      instances: 17.8,
+      blurb: "of Stack Overflow survey respondents use this technology"
     },
     {
       name: "Django",
-      instances: 12.8
+      instances: 12.8,
+      blurb: "of Stack Overflow survey respondents use this technology"
     },
     {
       name: "Cordova",
-      instances: 8.6
+      instances: 8.6,
+      blurb: "of Stack Overflow survey respondents use this technology"
     },
     {
       name: "TensorFlow",
-      instances: 7.6
+      instances: 7.6,
+      blurb: "of Stack Overflow survey respondents use this technology"
     },
     {
       name: "Xamarin",
-      instances: 7.4
+      instances: 7.4,
+      blurb: "of Stack Overflow survey respondents use this technology"
     },
     {
       name: "Spark",
-      instances: 4.8
+      instances: 4.8,
+      blurb: "of Stack Overflow survey respondents use this technology"
     },
     {
       name: "Hadoop",
-      instances: 4.7
+      instances: 4.7,
+      blurb: "of Stack Overflow survey respondents use this technology"
     }
   ],
   links: [
