@@ -5,6 +5,8 @@
 
     <script src="https://www.gstatic.com/firebasejs/4.12.0/firebase.js"></script>
     <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script type='text/javascript' src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"> </script>
+    <link rel="stylesheet" type="text/css" href="./lib/viz.css">
 <script>
 var config = {
   apiKey: "AIzaSyBYvsaqkq895rjfCeg0sCte6Nrjmi2xmGY",
@@ -16,19 +18,17 @@ var config = {
 };
 firebase.initializeApp(config);
 </script>
+<link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Condensed|Raleway|Comfortaa" rel="stylesheet">
+
+<script src="https://d3js.org/d3-quadtree.v1.min.js"></script>
     <title>github stats</title>
   </head>
   <body>
+    <div id="label"></div>
 
-    <svg  >
+    <svg class="canvas" >
     </svg>
-    <g>
-      <input type="button" id="git" value="github popularity" />
-      <input type="button" id="so-pop" value="stack overflow popularity" />
-      <input type="button" id="so-fav" value="stack overflow most loved" />
-      <input type="button" id="so-hate" value="stack overflow most hated" />
-      <input type="button" id="so-sal-us" value="stack overflow highest salary" />
-    </g>
+  
     <script type="text/javascript" src="./lib/bundle.js" charset="utf-8"></script>
   </body>
 </html>
