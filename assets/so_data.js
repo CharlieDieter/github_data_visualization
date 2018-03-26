@@ -9,52 +9,52 @@ var data = {
     },
     {
       name: "JavaScript",
-      instances: 414453,
+      instances: "414,453",
       blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "HTML",
-      instances: 347998,
+      instances: "347,998",
       blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "CSS",
-      instances: 309993,
+      instances: "309,993",
       blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "Shell",
-      instances: 262879,
+      instances: "262,879",
       blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "Python",
-      instances: 231975,
+      instances: "231,975",
       blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "Java",
-      instances: 137410,
+      instances: "137,410",
       blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "Ruby",
-      instances: 123708,
+      instances: "123,708",
       blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "PHP",
-      instances: 118696,
+      instances: "118,696",
       blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "Makefile",
-      instances: 116151,
+      instances: "116,151",
       blurb: "GitHub repos using this language were created in 2017"
     },
     {
       name: "C",
-      instances: 112881,
+      instances: "112,881",
       blurb: "GitHub repos using this language were created in 2017"
     },
     {
@@ -138,62 +138,73 @@ var data = {
     {
       name: "Visual Basic",
       instances: 89.9,
-      blurb: "of developers on Stack Overflow dread this language"
+      blurb: "of developers on Stack Overflow dread using this language"
     },
     {
       name: "Cobol",
       instances: 84.1,
-      blurb: "of developers on Stack Overflow say they dread this language"
+      blurb:
+        "of developers on Stack Overflow say they dread using this language"
     },
     {
       name: "CoffeeScript",
       instances: 82.7,
-      blurb: "of developers on Stack Overflow say they dread this language"
+      blurb:
+        "of developers on Stack Overflow say they dread using this language"
     },
     {
       name: "Matlab",
       instances: 77.4,
-      blurb: "of developers on Stack Overflow say they dread this language"
+      blurb:
+        "of developers on Stack Overflow say they dread using this language"
     },
     {
       name: "Assembly",
       instances: 71.4,
-      blurb: "of developers on Stack Overflow say they dread this language"
+      blurb:
+        "of developers on Stack Overflow say they dread using this language"
     },
     {
       name: "Perl",
       instances: 71.3,
-      blurb: "of developers on Stack Overflow say they dread this language"
+      blurb:
+        "of developers on Stack Overflow say they dread using this language"
     },
     {
       name: "Objective-C",
       instances: 70.3,
-      blurb: "of developers on Stack Overflow say they dread this language"
+      blurb:
+        "of developers on Stack Overflow say they dread using this language"
     },
     {
       name: "Lua",
       instances: 68.2,
-      blurb: "of developers on Stack Overflow say they dread this language"
+      blurb:
+        "of developers on Stack Overflow say they dread using this language"
     },
     {
       name: "Ruby",
       instances: 52.6,
-      blurb: "of developers on Stack Overflow say they dread this language"
+      blurb:
+        "of developers on Stack Overflow say they dread using this language"
     },
     {
       name: "Groovy",
       instances: 66.4,
-      blurb: "of developers on Stack Overflow say they dread this language"
+      blurb:
+        "of developers on Stack Overflow say they dread using this language"
     },
     {
       name: "Delphi/ObjectPascal",
       instances: 65.1,
-      blurb: "of developers on Stack Overflow say they dread this language"
+      blurb:
+        "of developers on Stack Overflow say they dread using this language"
     },
     {
       name: "C",
       instances: 62.6,
-      blurb: "of developers on Stack Overflow say they dread this language"
+      blurb:
+        "of developers on Stack Overflow say they dread using this language"
     },
     {
       name: "Top Paying Technologies",
@@ -201,79 +212,79 @@ var data = {
     },
     {
       name: "Erlang",
-      instances: "$115000",
+      instances: "$115,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Scala",
-      instances: "$115000",
+      instances: "$115,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "OCaml",
-      instances: "$114000",
+      instances: "$114,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Groovy",
-      instances: "$110000",
+      instances: "$110,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Python",
-      instances: "$98000",
+      instances: "$980,00",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Hack",
-      instances: "$108000",
+      instances: "$108,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "F#",
-      instances: "$108000",
+      instances: "$108,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Clojure",
-      instances: "$110000",
+      instances: "$110,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Ruby",
-      instances: "$100000",
+      instances: "$100,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Go",
-      instances: "$110000",
+      instances: "$110,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Perl",
-      instances: "$106000",
+      instances: "$106,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Kotlin",
-      instances: "$105000",
+      instances: "$105,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
     {
       name: "Rust",
-      instances: "$105000",
+      instances: "$105,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },

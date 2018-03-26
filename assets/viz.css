@@ -6,20 +6,48 @@ body {
   background: radial-gradient(#ecf0f1, #abb7b7);
   height: 1000px;
 }
+
 .sidebar {
-  width: 300px;
   position: absolute;
+  padding: 20px;
 }
+
+.sidebar h1 {
+  font-size: 100px;
+  color: #eeeeee;
+  margin-top: -10px;
+  width: 300px;
+}
+
+.sidebar p {
+  padding-left: 20px;
+  margin-top: -40px;
+  margin-left: 20px;
+  width: 300px;
+  font-size: 16px;
+  color: black;
+}
+
+p.instructions {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
 .links {
-  width: 40px;
-  margin: 475px 0 0 10px;
+  float: right;
+  margin: 10px 0 0 20px;
 }
 .links a {
-  display: block;
   font-size: 2em;
   text-align: center;
   text-decoration: none;
   color: black;
+  padding: 3px;
+}
+
+a:hover {
+  transform: scale(1.2);
+  transition: 0.3s;
 }
 .canvas {
   overflow: visible;
@@ -35,7 +63,7 @@ circle {
 }
 
 .parent {
-  font-size: 12px;
+  font-size: 20px;
   width: 200px;
   padding: 30px;
   fill: black;
@@ -45,7 +73,7 @@ circle {
   position: absolute;
   text-align: center;
   width: 200px;
-  height: 100px;
+  height: 150px;
   padding: 10px;
   border: 0px;
   margin-top: 70px;
@@ -72,6 +100,5 @@ circle {
 }
 
 .blurb-body {
-  font-size: 0.75em;
   margin-top: 0.5em;
 }
