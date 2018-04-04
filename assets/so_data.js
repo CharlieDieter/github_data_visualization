@@ -236,7 +236,7 @@ var data = {
     },
     {
       name: "Python",
-      instances: "$980,00",
+      instances: "$98,000",
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
