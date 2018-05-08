@@ -66,7 +66,7 @@ var images = {
   ".NET Core":
     "https://cdn0.froala.com/assets/editor/docs/server/meta-social/dotnet-core-12b6094aae01e933196c60b4e87181bf.png",
   Spring:
-    "http://www.softcodelondon.co.uk/assets/images/expert-logo-set/spring-framework.png",
+    "https://cdn.shopify.com/s/files/1/0724/4335/products/Core_Spring_Icon_ba48b1da-f357-41f6-a203-256356b9dc94_1024x1024.png?v=1517227949",
   Django: "https://cdn.worldvectorlogo.com/logos/django.svg",
   Cordova: "https://cdn.worldvectorlogo.com/logos/cordova.svg",
   TensorFlow:
