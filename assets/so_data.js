@@ -216,12 +216,12 @@ var data = {
       blurb:
         "median salary of Stack Overflow survey respondents who use this language"
     },
-    {
-      name: "Scala",
-      instances: "$115,000",
-      blurb:
-        "median salary of Stack Overflow survey respondents who use this language"
-    },
+    // {
+    //   name: "Scala",
+    //   instances: "$115,000",
+    //   blurb:
+    //     "median salary of Stack Overflow survey respondents who use this language"
+    // },
     {
       name: "OCaml",
       instances: "$114,000",
@@ -404,20 +404,23 @@ var data = {
     { source: 40, target: 50 },
     { source: 40, target: 51 },
     { source: 40, target: 52 },
-    { source: 40, target: 53 },
+    // TODO: replace Scala link
+    // { source: 40, target: 53 },
 
-    { source: 0, target: 54, invis: true },
-    { source: 54, target: 55 },
-    { source: 54, target: 56 },
-    { source: 54, target: 57 },
-    { source: 54, target: 58 },
-    { source: 54, target: 59 },
-    { source: 54, target: 60 },
-    { source: 54, target: 61 },
-    { source: 54, target: 62 },
-    { source: 54, target: 63 },
-    { source: 54, target: 64 },
-    { source: 54, target: 65 }
+    { source: 0, target: 53, invis: true },
+    { source: 53, target: 54 },
+    { source: 53, target: 55 },
+    { source: 53, target: 56 },
+    { source: 53, target: 57 },
+    { source: 53, target: 58 },
+    { source: 53, target: 59 },
+    { source: 53, target: 60 },
+    { source: 53, target: 61 },
+    { source: 53, target: 62 },
+    { source: 53, target: 63 },
+    { source: 53, target: 64 }
+    // TODO: replace Scala link
+    // { source: 54, target: 65 }
   ]
 };
 

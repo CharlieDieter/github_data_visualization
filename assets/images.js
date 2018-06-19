@@ -51,8 +51,6 @@ var images = {
     "https://user-images.githubusercontent.com/6978003/28999656-cb0677aa-7a1c-11e7-975d-25ed65555cc8.png",
   Erlang:
     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erlang_logo.svg/2000px-Erlang_logo.svg.png",
-  Scala:
-    "http://www.unixstickers.com/image/data/stickers/scala/Scala-logoText.sh.png",
   OCaml:
     "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/OCaml_Logo.svg/800px-OCaml_Logo.svg.png",
   Hack:
@@ -81,3 +79,6 @@ var images = {
 };
 
 module.exports = images;
+
+// Scala:
+//   "http://www.unixstickers.com/image/data/stickers/scala/Scala-logoText.sh.png",
